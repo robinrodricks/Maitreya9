@@ -8,6 +8,7 @@ Maitreya supports both. And in deed, both branches of astrology are essentially 
 
 **Note: Maitreya was originally developed by Martin Pe, but is no longer actively maintained. Therefore I have created this repository to continue the development of this software.**
 
+**License: GNU GPL 2.0, same as the original project.**
 
 
 ## Features
