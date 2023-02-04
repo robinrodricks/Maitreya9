@@ -1,10 +1,12 @@
 # Maitreya 9
 
 Maitreya is an Open Source platform for Vedic and western astrology. Supported platforms are Windows, Max OS X, Linux and UNIX. Mobile platforms like Android or iOS are not supported.
-The software is licensed under the GNU Public License and is free for private and commercial use. Details about the license can be found on the Maitreya's License page.
+
+The software is licensed under the GNU Public License and is free for private and commercial use.
 
 Western and Vedic astrology seem to be two different topics. And so most astrology programs support exactly one of them.
-Maitreya supports both. And in deed, both branches of astrology are essentially two different views of the same thing.
+
+Maitreya supports both. And indeed, both branches of astrology are essentially two different views of the same thing.
 
 **Note: Maitreya was originally developed by Martin Pettau, but is no longer actively maintained. Therefore I have created this repository to continue the development of this software.**
 
