@@ -286,18 +286,20 @@ Get the source code for wxWidgets from wxWidgets.org. You can fetch either the w
 
 Go to the the root directory of the wxWidgets source code distribution.
 
-Type
+Type this:
 
-./configure --disable-shared --enable-unicode
-make
-make install
+	./configure --disable-shared --enable-unicode
+	make
+	make install
+
 You can also leave the option --disable-shared. You will then get a shared library of wxWidgets. The release will be bigger then.
 
 If everything goes well, you'll have a ready-to-use wxWidgets installation.
 
 You can test your installation by compiling one of the samples (e.g. sample minimal). Just go to the directory, type
 
-make
+	make
+
 and start the example.
 
 #### Third step
@@ -308,11 +310,13 @@ Create a directory for the source code tree, e.g. c:\maitreya. Enter this direct
 
 Unpack the source code archive
 
-unzip maitreya-<version>.zip (zip file)
-or tar jxvf maitreya-<version>.tar.bz2 (bzip2 file) etc.
+	unzip maitreya-<version>.zip (zip file)
+	or tar jxvf maitreya-<version>.tar.bz2 (bzip2 file) etc.
+
 Type
 
-make -f Makefile.win
+	make -f Makefile.win
+
 Hope that everything's going well.
 
 The executable (src/gui/maitreya.8exe) will be quite big. You can strip if you don't want debugging informations (strip src/gui/maitreya.exe).
